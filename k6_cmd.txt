@@ -1,0 +1,3 @@
+k6 login cloud --token 6c9af22baf0f4cc21ab31e8d03a879bccdee80c0823545f5ed2aa52402decbc3
+k6 cloud demo_cloud.js
+k6 run --out cloud demo_cloud.js
